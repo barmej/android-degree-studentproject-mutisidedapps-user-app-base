@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Blue Sea</string>
+    <string name="signup">إنشاء حساب</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="have_an_account">لديك حساب؟</string>
+    <string name="log_in">تسجيل دخول</string>
+    <string name="date_sample">29 أبريل</string>
+    <string name="available_seats">مقاعد متوفرة</string>
+    <string name="booked">محجوز</string>
+    <string name="book">احجز</string>
+    <string name="trip_status">حالة الرحلة</string>
+    <string name="to_destination">إلى الوجهة</string>
+</resources>
